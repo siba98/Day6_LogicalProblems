@@ -12,8 +12,7 @@ namespace Day6_LogicalProblems
             //Reverse_Number.CheckReverse();
             //Perfect_Number.IsPerfect();
             //Coupon_Number.CouponNumbers();
-            Stopwatch.StopWatch();
-
-        }    
+            StopWatch.TimeElapsed();
+        }
     }
 }
