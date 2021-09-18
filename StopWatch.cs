@@ -10,6 +10,7 @@ namespace Day6_LogicalProblems
     {
 		public static void TimeElapsed()
 		{
+            Console.WriteLine("Stowatch is running....");
             // Create new stopwatch.
             Stopwatch timer = new Stopwatch();
 
