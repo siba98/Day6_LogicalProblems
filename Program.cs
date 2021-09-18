@@ -7,12 +7,15 @@ namespace Day6_LogicalProblems
     {
         static void Main(string[] args)
         {
-            //Fibonacci_Series.CalculateFibonacci();
-            //Prime_Number.IsPrime();
-            //Reverse_Number.CheckReverse();
-            //Perfect_Number.IsPerfect();
-            //Coupon_Number.CouponNumbers();
+            Fibonacci_Series.CalculateFibonacci();
+            Prime_Number.IsPrime();
+            Reverse_Number.CheckReverse();
+            Perfect_Number.IsPerfect();
+            Coupon_Number.CouponNumbers();
             StopWatch.TimeElapsed();
+
+
+            Console.ReadKey();
         }
     }
 }
